@@ -1,0 +1,8 @@
+{
+  "name": "api",
+  "scripts": {
+    "dev": "flask --app main:app run --debug --port 5000",
+        "build": "echo No build step"
+
+  }
+}
